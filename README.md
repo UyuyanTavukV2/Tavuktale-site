@@ -1,6 +1,6 @@
 # HyPrism Website
 
-[![Website](https://img.shields.io/badge/Live-yyyumeniku.github.io/hyprism--site-207e5c?style=for-the-badge)](https://yyyumeniku.github.io/hyprism-site/)
+[![Website](https://img.shields.io/badge/Live-yyyumeniku.github.io/hyprism--site-207e5c?style=for-the-badge)](https://uyuyantavukv2.github.io/tavuktale-site/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yyyumeniku)
 
 Simple landing page for HyPrism launcher with real-time GitHub contributors and download counter.
